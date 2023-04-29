@@ -23,7 +23,7 @@ if choice == "South":
 
 elif choice == "North":
     html_temp = '''
-    <div style="background-color:#b5b91c;padding:1.5px">
+    <div style="background-color:#57b787;padding:1.5px">
     <h1 style="color:white;text-align:center;">North Indian Diet Plan</h1>
     </div><br>'''
     st.markdown(html_temp,unsafe_allow_html=True)
@@ -34,7 +34,7 @@ elif choice == "North":
 
 elif choice == "East":
     html_temp = '''
-    <div style="background-color:#9bb20a;padding:1.5px">
+    <div style="background-color:#879a0c;padding:1.5px">
     <h1 style="color:white;text-align:center;">East Indian Diet Plan</h1>
     </div><br>'''
     st.markdown(html_temp,unsafe_allow_html=True)
@@ -45,7 +45,7 @@ elif choice == "East":
 
 elif choice == "West":
     html_temp = '''
-    <div style="background-color:#b063a5;padding:1.5px">
+    <div style="background-color:#931a80;padding:1.5px">
     <h1 style="color:white;text-align:center;">West Indian Diet Plan</h1>
     </div><br>'''
     st.markdown(html_temp,unsafe_allow_html=True)
