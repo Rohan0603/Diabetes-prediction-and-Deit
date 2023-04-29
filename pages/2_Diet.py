@@ -17,9 +17,9 @@ if choice == "South":
     </div><br>'''
     st.markdown(html_temp,unsafe_allow_html=True)
 
-    image_filenames = os.listdir('data/South')
+    image_filenames = os.listdir('images/South')
     for filename in image_filenames:
-        st.image(f'data/South/{filename}')
+        st.image(f'images/South/{filename}')
 
 elif choice == "North":
     html_temp = '''
@@ -28,9 +28,9 @@ elif choice == "North":
     </div><br>'''
     st.markdown(html_temp,unsafe_allow_html=True)
 
-    image_filenames = os.listdir('data/North')
+    image_filenames = os.listdir('images/North')
     for filename in image_filenames:
-        st.image(f'data/North/{filename}')
+        st.image(f'images/North/{filename}')
 
 elif choice == "East":
     html_temp = '''
@@ -39,9 +39,9 @@ elif choice == "East":
     </div><br>'''
     st.markdown(html_temp,unsafe_allow_html=True)
 
-    image_filenames = os.listdir('data/East')
+    image_filenames = os.listdir('images/East')
     for filename in image_filenames:
-        st.image(f'data/East/{filename}')
+        st.image(f'images/East/{filename}')
 
 elif choice == "West":
     html_temp = '''
@@ -50,6 +50,6 @@ elif choice == "West":
     </div><br>'''
     st.markdown(html_temp,unsafe_allow_html=True)
 
-    image_filenames = os.listdir('data/West')
+    image_filenames = os.listdir('images/West')
     for filename in image_filenames:
-        st.image(f'data/West/{filename}')
+        st.image(f'images/West/{filename}')
