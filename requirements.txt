@@ -1,5 +1,4 @@
 ﻿altair==4.2.2
 pandas==1.5.3
-pickle
 Pillow==9.5.0
 streamlit==1.22.0
