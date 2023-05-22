@@ -14,15 +14,12 @@ This repository contains code for a web application that predicts the likelihood
 To run the application locally, follow these steps:
 
 1. Clone the repository:
-
    git clone https://github.com/Rohan0603/Diabetes-prediction-and-Diet.git
    
  2. Install the required dependencies:
- 
    pip install -r requirements.txt
    
  3. Run the application:
- 
    streamlit run app.py
    
  4. Access the application by opening the provided URL in your browser.
@@ -33,10 +30,10 @@ To run the application locally, follow these steps:
 
 Here are some screenshots of the application:
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](images/Screen Shot/Screenshot (415).png)
 _Example of entering health parameters and receiving diabetes prediction and diet recommendations._
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](images/Screen Shot/Screenshot (414).png)
 _Example of user registration and login._
 
 ## Technologies Used
