@@ -26,16 +26,6 @@ To run the application locally, follow these steps:
 
    Once the application is running, you can access it by opening the URL provided by Streamlit in your browser. The application interface will be displayed, allowing you to interact with the features.
 
-## Screenshots
-
-Here are some screenshots of the application:
-
-![Screenshot 1](images/Screen Shot/Screenshot (415).png)
-_Example of entering health parameters and receiving diabetes prediction and diet recommendations._
-
-![Screenshot 2](images/Screen Shot/Screenshot (414).png)
-_Example of user registration and login._
-
 ## Technologies Used
 
 The following technologies were used in the development of this application:
